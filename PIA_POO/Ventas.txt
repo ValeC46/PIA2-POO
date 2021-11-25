@@ -1,0 +1,38 @@
+
+CLAVE DE COMPRA: 3733
+2021/10/29 13:49:41
+CLIENTE: Abigail Rivera Flores
+
+Capuchino  x3  : $72.0
+
+TOTAL: $72.0
+PAGADO CON: $100.0
+DEVOLUCION: $28.0
+
+***********
+
+CLAVE DE COMPRA: 1636
+2021/10/29 13:52:53
+CLIENTE: Abigail Rivera Flores
+
+Refresco Chico (500 mL)  x2  : $68.0
+Nachos  x2  : $88.0
+
+TOTAL: $156.0
+PAGADO CON: $170.0
+DEVOLUCION: $14.0
+
+***********
+
+CLAVE DE COMPRA: 1011
+2021/10/30 18:02:37
+CLIENTE: Armando
+
+Agua Potable Grande (1L)  x2  : $40.0
+Capuchino  x2  : $46.0
+
+TOTAL: $86.0
+PAGADO CON: $100.0
+DEVOLUCION: $14.0
+
+***********
