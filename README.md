@@ -1,5 +1,11 @@
-# PIA2-POO
-En este PIA mostraremos una solucion a una problematica
+# Dulceria de Cine
+## Nombre de los integrantes:
+
+Jorge Daniel Benavides Gómez _Matrícula_: 1931714
+
+Oscar Iván Salinas Jaramillo _Matricula_: 1928800
+
+Ingrid Valeria Cordero Elizondo _Matricula_: 1972274
 
 ## Problematica
 En la dulceria de un cine tienen que apuntar cada pedido de los clientes en una libreta, hacer las cuentas manualmente y registrar las ganancias. Esto hace que sea muy ineficiente, ya que aveces olvidan apuntar una venta, o se hace mal una cuenta y por consiguiente los numeros correctos no dan.
